@@ -1,44 +1,36 @@
 {
   "ramens": [
     {
-      "id": 1,
-      "name": "Shoyu Ramen",
-      "restaurant": "Nonono",
-      "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
+      "name": "Manuel Vazquez",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Naruto Ramen",
-      "restaurant": "Naruto",
-      "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "name": "Manuel Vazquez",
+      "restaurant": "naruto ramen",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Nirvana Shiromaru",
-      "restaurant": "Ippudo",
-      "image": "./assets/ramen/nirvana.jpg",
-      "rating": "7",
-      "comment": "Do buy the hype."
+      "name": "Manuel Vazquez",
+      "restaurant": "naruto ramen",
+      "image": "https://www.google.com/search?q=image&rlz=1C1VDKB_enUS1011US1011&oq=image&aqs=chrome..69i57j0i131i433i512j0i433i512j0i131i433i512l2j69i65j69i61l2.1150j0j4&sourceid=chrome&ie=UTF-8#imgrc=Q53WJiavu6IJtM",
+      "rating": "",
+      "comment": "",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Gyukotsu Ramen",
-      "restaurant": "Za-Ya Ramen",
-      "image": "./assets/ramen/gyukotsu.jpg",
-      "rating": 8,
-      "comment": "Good to the last drop."
-    },
-    {
-      "id": 5,
-      "name": "Kojiro Red Ramen",
-      "restaurant": "Ramen-Ya",
-      "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
-      "comment": "Perfect for a cold night."
+      "name": "Manuel Vazquez",
+      "restaurant": "naruto ramen",
+      "image": "https://www.google.com/search?q=image&rlz=1C1VDKB_enUS1011US1011&oq=image&aqs=chrome..69i57j0i131i433i512j0i433i512j0i131i433i512l2j69i65j69i61l2.1150j0j4&sourceid=chrome&ie=UTF-8#imgrc=Q53WJiavu6IJtM",
+      "rating": "0",
+      "comment": "hi",
+      "id": 4
     }
   ]
 }
